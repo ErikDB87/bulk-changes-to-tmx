@@ -87,3 +87,6 @@ replace_patterns = {
 In this example, the English pattern replaces "tea" with "coffee", and "coffee" with "Red Bull". Similarly, the French pattern replaces "thé" with "café", and "café" with "Red Bull". Both patterns also replace the straight apostrophe with the typographical curly apostrophe.
 
 Reading up on regex is a good idea, so you know how to, for example, replace "I like ***tea***" with "I like ***coffee***", without turning "That's a s***tea***l!" into "That's a s***coffee***l!".
+
+## Acknowledgement
+@Kazephil took my original approach, and made it much better. His code is what's in `main` now.
